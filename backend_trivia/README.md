@@ -1,6 +1,3 @@
-https://github.com/udacity/cd0037-API-Development-and-Documentation-exercises/blob/master/6_Final_Review/README.md
-
-
 # Project - Trivia API
 ## Introduction 
 Backend - Trivia API is made for a trivia. The application must be able to display questions but also delete or add new questions. Questions should be searchable by category or based on a text string. Finally, there is a quiz game that can be played.
@@ -425,6 +422,6 @@ The API will return the folowing error types when the request fails:
 Maxine Sundermann
 
 ## Acknowledgements
-Thank you udacity for the course 
+Thank you udacity for the course, as well as stack overflow for solving some of the issues I had with errors in the code.
 
 
